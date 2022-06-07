@@ -98,3 +98,40 @@ blockquote {
   border-left: 4px solid #646567;
   padding: 10px;
 }
+
+
+.headingm h1
+   {
+     font-size: 4rem;
+   }
+
+   .photu img{
+   height: 75%; 
+   width: 70%;
+   }
+
+@media only screen and (max-width:990px)
+{
+  .headingm h1
+   {
+     font-size: 2rem;
+   }
+}
+
+@media only screen and (max-width:575px)
+{
+  .headingm h1
+   {
+     font-size: 1.5rem;
+   }
+
+   .headingm p
+   {
+     font-size: 0.5rem;
+   }
+   .photu img{
+    height: 96%; 
+    width: 92%;
+    }
+}
+
