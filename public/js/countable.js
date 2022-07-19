@@ -1,12 +1,4 @@
-/**
- * Countable is a script to allow for live paragraph-, word- and character-
- * counting on an HTML element.
- *
- * @author   Sacha Schmid (<https://github.com/RadLikeWhoa>)
- * @version  3.0.1
- * @license  MIT
- * @see      <http://radlikewhoa.github.io/Countable/>
- */
+
 
 /**
  * Note: For the purpose of this internal documentation, arguments of the type
